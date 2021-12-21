@@ -1,6 +1,6 @@
 {
   "name": "react-scroll-navbar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "支持锚点滚动的导航，一键简单引入",
   "main": "index.jsx",
   "scripts": {
