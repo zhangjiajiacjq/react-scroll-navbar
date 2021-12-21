@@ -20,7 +20,9 @@
     "url": "https://github.com/zhangjiajiacjq/react-scroll-navbar/issues"
   },
   "homepage": "https://github.com/zhangjiajiacjq/react-scroll-navbar#readme",
-  "dependencies": {
-    "react": "^17.0.2"
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
