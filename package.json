@@ -1,0 +1,26 @@
+{
+  "name": "react-scroll-navbar",
+  "version": "1.0.0",
+  "description": "支持锚点滚动的导航，一键简单引入",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjiajiacjq/react-scroll-navbar.git"
+  },
+  "keywords": [
+    "scroll",
+    "navbar"
+  ],
+  "author": "zhangjiajiacjq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhangjiajiacjq/react-scroll-navbar/issues"
+  },
+  "homepage": "https://github.com/zhangjiajiacjq/react-scroll-navbar#readme",
+  "dependencies": {
+    "react": "^17.0.2"
+  }
+}
